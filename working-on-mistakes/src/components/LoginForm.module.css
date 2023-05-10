@@ -1,0 +1,41 @@
+.fieldset {
+    margin: 4rem auto;
+    background-color: rgba(154, 140, 140, 0.73);
+    padding: 18px 16px;
+    max-width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fieldset input {
+    display: block;
+    width: 100%;
+    padding: 4px 6px;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    margin-bottom: 12px;
+}
+.fieldset button {
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    padding:15px;
+    min-height:30px;
+    min-width: 120px;
+}
+.fieldset p {
+    color: #ffd4d4;
+    margin-bottom: 6px;
+    background-color: darkred;
+    padding: 4px 6px;
+    border-radius: 12px;
+}

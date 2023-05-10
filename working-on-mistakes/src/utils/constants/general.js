@@ -1,0 +1,2 @@
+export const JWT_TOKEN_KEY = "DARK_SOULS_JWT_TOKEN_KEY@";
+export const USER_KEY = "DARK_SOULS_USER_INFO@";
